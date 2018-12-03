@@ -16,6 +16,11 @@ public class GitTest{
 
 	}
 
+	public void setString (String test){
+
+	value = test;
+
+	}
 
 }
 
