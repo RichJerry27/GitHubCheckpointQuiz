@@ -1,3 +1,5 @@
+//Richard
+
 public class GitTest{
 
 	String value = "";
@@ -17,4 +19,6 @@ public class GitTest{
 
 }
 
+
 //Jerry
+
