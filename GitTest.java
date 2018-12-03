@@ -1,3 +1,5 @@
+//Richard 
+
 public class GitTest{
 
 	String value = "";
